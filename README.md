@@ -21,8 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-https://github.com/chiki012/Maitri/assets/92042650/625f7036-a01f-4580-ad33-359b5fd64728
-
 
 
 
