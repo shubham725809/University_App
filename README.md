@@ -1,4 +1,4 @@
-![part1_academic_AdobeExpress](https://github.com/chiki012/Maitri/assets/92042650/2df68600-018f-4b84-a878-149381d8e980)![part-2](https://github.com/chiki012/Maitri/assets/92042650/ffc672d1-6c9b-408d-b5a7-b3cfb1f0e18d)![part-3](https://github.com/chiki012/Maitri/assets/92042650/c2deda40-2805-44e8-843e-18f069137966)![part-4](https://github.com/chiki012/Maitri/assets/92042650/2751b767-67f7-4082-ad61-044e5eb68bdb)# maitri
+# maitri
 
 A new Flutter project.
 
