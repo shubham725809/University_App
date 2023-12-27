@@ -1,4 +1,4 @@
-# maitri
+# Maitri
 
 A new Flutter project.
 
@@ -33,5 +33,7 @@ samples, guidance on mobile development, and a full API reference.
 ![part-7](https://github.com/chiki012/Maitri/assets/92042650/0b65abc9-c986-485c-961c-df3c7c57dbb8)
 
 ![part-8](https://github.com/chiki012/Maitri/assets/92042650/2ff322b8-58e4-4cd4-ab4a-8b7268c24075)
+
+
 
 
